@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+requests
+python-dotenv
+PyJWT
+openai
+sentence-transformers
+torch
+torchvision
+torchaudio
+chromadb
+pypdf
+python-docx
+PyMuPDF
+numpy
+scikit-learn

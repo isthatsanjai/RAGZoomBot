@@ -19,3 +19,7 @@ chroma_db/
 .env
 
 knowledge_base/
+
+BotTestCases.md
+
+*.mp4
